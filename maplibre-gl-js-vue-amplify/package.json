@@ -1,6 +1,6 @@
 {
   "name": "maplibre-gl-js-vue-amplify",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "private": true,
   "scripts": {
     "start": "vite",
@@ -8,14 +8,14 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "aws-amplify": "^4.3.29",
-    "maplibre-gl-js-amplify": "^2.0.2",
-    "vue": "^3.2.37",
-    "vue-router": "^4.1.3"
+    "aws-amplify": "^5.3.4",
+    "maplibre-gl-js-amplify": "^3.1.0",
+    "vue": "^3.3.4",
+    "vue-router": "^4.2.4"
   },
   "devDependencies": {
-    "@vitejs/plugin-vue": "^3.0.1",
-    "vite": "^3.2.7"
+    "@vitejs/plugin-vue": "^4.2.3",
+    "vite": "^4.4.4"
   },
   "license": "MIT-0"
 }

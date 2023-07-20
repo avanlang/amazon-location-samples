@@ -23,6 +23,7 @@
     "react-map-gl-amplify-here-map",
     "openlayers-amplify",
     "create-custom-map-style",
-    "amazon-location-helpers"
+    "amazon-location-helpers",
+    "maplibre-gl-js-vue-amplify"
   ]
 }
