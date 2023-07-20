@@ -24,6 +24,7 @@
     "openlayers-amplify",
     "create-custom-map-style",
     "amazon-location-helpers",
-    "maplibre-gl-js-vue-amplify"
+    "maplibre-gl-js-vue-amplify",
+    "maplibre-gl-js-vue-amplify-compare-maps"
   ]
 }

@@ -3,6 +3,7 @@ export type AmplifyDependentResourcesAttributes = {
     "maplibreglvue8d050126": {
       "AppClientID": "string",
       "AppClientIDWeb": "string",
+      "CreatedSNSRole": "string",
       "IdentityPoolId": "string",
       "IdentityPoolName": "string",
       "UserPoolArn": "string",
