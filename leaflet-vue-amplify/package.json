@@ -7,17 +7,17 @@
     "preview": "vite preview --port 5050"
   },
   "dependencies": {
-    "@maplibre/maplibre-gl-leaflet": "^0.0.15",
-    "aws-amplify": "^4.3.14",
-    "leaflet": "^1.7.1",
-    "maplibre-gl": "^1.15.2",
-    "maplibre-gl-js-amplify": "^1.2.3",
-    "vue": "^3.2.29",
-    "vue-router": "^4.0.12"
+    "@maplibre/maplibre-gl-leaflet": "^0.0.19",
+    "aws-amplify": "^5.3.4",
+    "leaflet": "^1.9.4",
+    "maplibre-gl": "^3.2.0",
+    "maplibre-gl-js-amplify": "^3.1.0",
+    "vue": "^3.3.4",
+    "vue-router": "^4.2.4"
   },
   "devDependencies": {
-    "@vitejs/plugin-vue": "^2.1.0",
-    "vite": "^2.9.16"
+    "@vitejs/plugin-vue": "^4.2.3",
+    "vite": "^4.4.4"
   },
   "license": "MIT-0"
 }

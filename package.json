@@ -25,6 +25,7 @@
     "create-custom-map-style",
     "amazon-location-helpers",
     "maplibre-gl-js-vue-amplify",
-    "maplibre-gl-js-vue-amplify-compare-maps"
+    "maplibre-gl-js-vue-amplify-compare-maps",
+    "leaflet-vue-amplify"
   ]
 }
