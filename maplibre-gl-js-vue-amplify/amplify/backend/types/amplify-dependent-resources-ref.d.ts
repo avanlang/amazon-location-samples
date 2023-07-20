@@ -1,19 +1,19 @@
 export type AmplifyDependentResourcesAttributes = {
-    "auth": {
-        "maplibrereact022beae3": {
-            "IdentityPoolId": "string",
-            "IdentityPoolName": "string",
-            "UserPoolId": "string",
-            "UserPoolArn": "string",
-            "UserPoolName": "string",
-            "AppClientIDWeb": "string",
-            "AppClientID": "string"
-        }
-    },
-    "geo": {
-        "maplibrereact": {
-            "Name": "string",
-            "Style": "string"
-        }
+  "auth": {
+    "maplibrereact022beae3": {
+      "AppClientID": "string",
+      "AppClientIDWeb": "string",
+      "IdentityPoolId": "string",
+      "IdentityPoolName": "string",
+      "UserPoolArn": "string",
+      "UserPoolId": "string",
+      "UserPoolName": "string"
     }
+  },
+  "geo": {
+    "maplibrereact": {
+      "Name": "string",
+      "Style": "string"
+    }
+  }
 }
